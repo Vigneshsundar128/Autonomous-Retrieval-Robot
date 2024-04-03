@@ -1,3 +1,5 @@
+#This code is part of the material of the course Computer Vision and Machine Perception - University of Basilicata (Italy)
+
 import numpy as np
 import cv2 as cv
 
